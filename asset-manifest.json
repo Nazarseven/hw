@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6bae245d.css",
+    "main.js": "/static/js/main.0acf7348.js",
+    "static/media/main.jpg": "/static/media/main.d8b5f4529a581a4d3d5f.jpg",
+    "static/media/cocheader.png": "/static/media/cocheader.128c6e455b12755aabf5.png",
+    "static/media/brawlheader.png": "/static/media/brawlheader.c65c754029d90be44561.png",
+    "static/media/fortniteheader.jpg": "/static/media/fortniteheader.22d8804163608b0118e1.jpg",
+    "static/media/csgoheader.jpg": "/static/media/csgoheader.b6ee0a201a96c889adc7.jpg",
+    "static/media/pubgheader.jpg": "/static/media/pubgheader.5489fd988f548d90cc47.jpg",
+    "static/media/dotaheader.jpg": "/static/media/dotaheader.9d54bc4ed688e177961a.jpg",
+    "index.html": "/index.html",
+    "main.6bae245d.css.map": "/static/css/main.6bae245d.css.map",
+    "main.0acf7348.js.map": "/static/js/main.0acf7348.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bae245d.css",
+    "static/js/main.0acf7348.js"
+  ]
+}
